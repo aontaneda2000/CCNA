@@ -1,0 +1,4 @@
+cada dominio de colision tiene un puert designado
+g0/0 -> g0/0
+
+y al parecer solamente un switch puede tener un root port por una interfaz
